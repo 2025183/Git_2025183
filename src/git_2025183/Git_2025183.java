@@ -15,6 +15,7 @@ public class Git_2025183 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Munkhzul - 2025183");
     }
     
 }
